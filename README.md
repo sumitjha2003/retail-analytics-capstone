@@ -57,42 +57,42 @@ A global retail conglomerate operating across 8 online sales channels wants to o
 ### 1. Executive Overview
 The command-center landing view — total sales, profit, margin, transaction volume, and average order value at a glance, plus a live category lookup.
 
-![Executive Dashboard Overview](assets/screenshots/01-executive-dashboard-overview.png)
+![Executive Dashboard Overview](01-executive-dashboard-overview.png)
 
 ### 2. Profitability Analysis
 Gross sales, product cost, and delivery cost broken down by category and by month, with profit margin flagged category-by-category.
 
-![Profitability Analysis Table](assets/screenshots/02-profitability-analysis-table.png)
+![Profitability Analysis Table](02-profitability-analysis-table.png)
 
 ### 3. Discount Optimization
 Tests whether higher discount bands actually convert into higher volume or profit — they don't.
 
-![Discount Optimization Table](assets/screenshots/03-discount-optimization-table.png)
+![Discount Optimization Table](03-discount-optimization-table.png)
 
 ### 4. Market Segmentation
 Regional and demographic performance — net sales, profit, and average order value by region, city, gender, and age group.
 
-![Market Segmentation Table](assets/screenshots/04-market-segmentation-table.png)
+![Market Segmentation Table](04-market-segmentation-table.png)
 
 ### 5. Channel Efficiency
 Net sales, net profit, and margin compared across all 8 sales channels and both payment modes.
 
-![Channel Efficiency Table](assets/screenshots/05-channel-efficiency-table.png)
+![Channel Efficiency Table](05-channel-efficiency-table.png)
 
 ### 6. Discount & Regional Visuals
 Volume vs. margin by discount band, category-level discount-to-margin comparison, and top-performing regions/cities.
 
-![Discount vs Profit Charts](assets/screenshots/06-discount-vs-profit-charts.png)
+![Discount vs Profit Charts](06-discount-vs-profit-charts.png)
 
 ### 7. Demographic & Channel Visuals
 Sales by buyer age group, channel-level net sales vs. net profit, and the cash/online payment split, alongside headline takeaways.
 
-![Demographics and Channel Charts](assets/screenshots/07-demographics-channel-charts.png)
+![Demographics and Channel Charts](07-demographics-channel-charts.png)
 
 ### 8. Interactive Pivot Dashboard
 A slicer-driven pivot view for filtering by region, channel, payment mode, category, and transaction date.
 
-![Interactive Pivot Dashboard](assets/screenshots/08-interactive-pivot-dashboard.png)
+![Interactive Pivot Dashboard](08-interactive-pivot-dashboard.png)
 
 ---
 
